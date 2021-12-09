@@ -2,4 +2,4 @@
 
 В это работе воспроизводится постер, который написан в манере Пита Мондриана. В результате создается следующий макет:
 
-![Неоплатицизм](https://github.com/Valsym/HTML-CSS-exercise/blob/main/poster-neoplastitsizm.jpg)
+![Неоплатицизм](https://github.com/Valsym/HTML-CSS-exercise/blob/main/Neoplastitsizm/poster-neoplastitsizm.jpg)
