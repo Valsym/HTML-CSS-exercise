@@ -1,0 +1,11 @@
+@use "sass:math";
+
+$rem-base: 16px;
+
+@function px-to-rem($list) {
+	$res: ();
+	@each $var in $list {
+    $res: append($res, (math.div($var / $rem-base) * 1rem));
+  }
+  @return #{$res};
+}				
